@@ -5,8 +5,12 @@ It comprises of a review, design, and experimentation of mathematical and comput
 [1]. 
 
 REFERENCES
+
 [1] Ademola, A. [2022], Machine learning for depression detection: Project investigation report,
 Robert Gordon University of Aberdeen: School of Computing, United Kingdom.
+
 [2] https://towardsdatascience.com/text-classification-with-bert-in-pytorch-887965e5820f
+
 [3] https://github.com/rahulsharma-rks/DepressionDetection
+
 [4] https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
